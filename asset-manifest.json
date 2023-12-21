@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashishwsite/bgchanger/static/css/main.c1abc95b.css",
+    "main.js": "/ashishwsite/bgchanger/static/js/main.42d47546.js",
+    "static/js/787.e4718389.chunk.js": "/ashishwsite/bgchanger/static/js/787.e4718389.chunk.js",
+    "index.html": "/ashishwsite/bgchanger/index.html",
+    "main.c1abc95b.css.map": "/ashishwsite/bgchanger/static/css/main.c1abc95b.css.map",
+    "main.42d47546.js.map": "/ashishwsite/bgchanger/static/js/main.42d47546.js.map",
+    "787.e4718389.chunk.js.map": "/ashishwsite/bgchanger/static/js/787.e4718389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1abc95b.css",
+    "static/js/main.42d47546.js"
+  ]
+}
