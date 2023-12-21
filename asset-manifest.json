@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bgchanger/static/css/main.c1abc95b.css",
-    "main.js": "/bgchanger/static/js/main.1fe57917.js",
+    "main.css": "/bgchanger/static/css/main.be2dd581.css",
+    "main.js": "/bgchanger/static/js/main.8f525673.js",
     "static/js/787.e4718389.chunk.js": "/bgchanger/static/js/787.e4718389.chunk.js",
     "index.html": "/bgchanger/index.html",
-    "main.c1abc95b.css.map": "/bgchanger/static/css/main.c1abc95b.css.map",
-    "main.1fe57917.js.map": "/bgchanger/static/js/main.1fe57917.js.map",
+    "main.be2dd581.css.map": "/bgchanger/static/css/main.be2dd581.css.map",
+    "main.8f525673.js.map": "/bgchanger/static/js/main.8f525673.js.map",
     "787.e4718389.chunk.js.map": "/bgchanger/static/js/787.e4718389.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1abc95b.css",
-    "static/js/main.1fe57917.js"
+    "static/css/main.be2dd581.css",
+    "static/js/main.8f525673.js"
   ]
 }
