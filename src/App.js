@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-// import '.App.css';
 function App() {
   // useState take color name is string formatd
+  
   let [color, setcolor] = useState("grey");
   return (
     // if inside the style key-value pair if valu is not in double quotes it treat as javascript variable
